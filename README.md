@@ -1,5 +1,5 @@
 # NetEaseMusicWorld+
-
+## This is a duplicate copy of NetEaseMusicWorld+ repo 
 解锁网易云音乐网页版海外限制
 
 ## 安装
